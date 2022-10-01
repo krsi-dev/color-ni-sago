@@ -1,6 +1,4 @@
-# color-ni-sago
-
-![Color Ni Sago](https://github.com/sagowtf/color-ni-sago/color-ni-sago.png)
+![Color Ni Sago](/color-ni-sago.png)
 
 Color ni sago is a pinoy game that can be played on discord.
 
