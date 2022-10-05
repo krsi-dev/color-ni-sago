@@ -1,7 +1,5 @@
 ![Color Ni Sago](/assets/CNS%20(200%20%C3%97%20100%20px).gif)
 
-Sago
-
 Color Ni Sago is a pinoy game where players can earn SAGO tokens by placing a bet on a color. SAGO tokens are converted to BNB and rewards are sent to your wallet address.
 
 ## What is this bot
