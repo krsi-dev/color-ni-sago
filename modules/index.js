@@ -5,8 +5,8 @@ const { utils } = require('web3')
 const { parse } = require('discord-command-parser')
 const { EmbedBuilder } = require('discord.js')
 
+const devmode = false
 const devid = process.env.DEV_ID
-const devmode = process.env.NODE_ENV !== 'production'
 const prefix = devmode ? 'dev' : 'color'
 const devapi = axios.create({baseURL: process.env.API})
 const colors = ['red', 'green', 'blue', 'white', 'yellow', 'pink']
